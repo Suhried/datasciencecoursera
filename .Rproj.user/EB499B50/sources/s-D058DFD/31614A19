@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589405355973.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1868529853",
+    "id" : "31614A19",
+    "lastKnownWriteTime" : 1589406399,
+    "last_content_update" : 1589406399201,
+    "path" : "~/Desktop/datasciencecoursera/HelloWorld.R",
+    "project_path" : "HelloWorld.R",
+    "properties" : {
+        "cursorPosition" : "0,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
